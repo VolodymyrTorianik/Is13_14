@@ -1,0 +1,80 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: #fea500;
+}
+
+/*Перше зображення Float Старт*/
+
+.bloks {
+    margin: 200px 0px;
+}
+
+.blok1, .blok2, .blok3, .blok4 {
+    float: left;
+}
+
+.blok1 {
+    background-color: #e03636;
+    height:500px;
+    width: 25%
+}
+
+.blok2 {
+    background-color: #099648;
+    height:500px;
+    width: 25%
+}
+
+
+.blok3 {
+    background-color: #13a0ce;
+    height:500px;
+    width: 25%
+}
+
+
+.blok4 {
+    background-color: #000000;
+    height:500px;
+    width: 25%
+}
+
+/*Перше зображення Float Кінець*/
+
+/*Перше зображення Flex Старт*/
+
+.flexbloks {
+    margin: 200px 0px;
+    display: flex;
+}
+
+.flexblok1 {
+    background-color: #e03636;
+    height:500px;
+    width: 25%
+}
+
+.flexblok2 {
+    background-color: #099648;
+    height:500px;
+    width: 25%
+}
+
+
+.flexblok3 {
+    background-color: #13a0ce;
+    height:500px;
+    width: 25%
+}
+
+
+.flexblok4 {
+    background-color: #000000;
+    height:500px;
+    width: 25%
+}
+/*Перша зображення Flex Кінець*/
+
